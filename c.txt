@@ -1,0 +1,2 @@
+create c.txt in github
+졸리다
